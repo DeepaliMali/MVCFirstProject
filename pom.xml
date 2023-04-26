@@ -16,8 +16,8 @@
 	<properties>
 		<java.version>17</java.version>
 
-		//This is updated by Dinesh
-		//THis is added by Deepali
+		<!-- This is updated by Dinesh
+		THis is added by Deepali -->
 
 	</properties>
 	<dependencies>
